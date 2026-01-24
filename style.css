@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: "", Times, serif;
+  background: linear-gradient(135deg, #1B1725, #266386, #a17d05);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  max-width: 600px;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+#fact {
+  font-size: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+button {
+  padding: 0.7rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #0c6e35;
+  color: #222;
+  font-weight: bold;
+}
