@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: "", Times, serif;
-  background: linear-gradient(135deg, #1B1725, #266386, #a17d05);
+  background: linear-gradient(135deg, #1B1725, #8a2e0a, #a17d05);
   color: white;
   display: flex;
   justify-content: center;
@@ -36,4 +36,5 @@ button {
   background-color: #0c6e35;
   color: #222;
   font-weight: bold;
+
 }
